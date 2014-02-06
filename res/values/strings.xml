@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Todo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_menu_title">Insert</string>
+    <string name="str_menu_insert">Add new</string>
+    <string name="str_menu_delete">Delete</string>
+    <string name="str_todo_summary">Summary</string>
+    <string name="str_todo_description">Description</string>
+    <string name="str_todo_edit_summary">Summary</string>
+    <string name="str_todo_edit_description">Description</string>
+    <string name="str_todo_edit_comfirm">Comfirm</string>
+    <string name="str_no_todos">empty</string>
+
+</resources>
